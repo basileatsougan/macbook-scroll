@@ -8,7 +8,7 @@ export default function Home() {
     src="/track.jpg" 
     badge="New Feature"
 
-    title="Welcome to my tracking app"
+    title="Welcome to Basile tracking UI app"
     
     />
     </div>
